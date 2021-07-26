@@ -33,3 +33,21 @@ In the dataset, Y_labels are represented as numbers from 1 to 6 as their identif
 
 * Each window of readings is a datapoint of 561 features.
 
+ All the data is present in 'UCI_HAR_dataset/' folder in present working directory.
+     - Feature names are present in 'UCI_HAR_dataset/features.txt'
+  
+  Train Data___
+      -'UCI_HAR_dataset/train/X_train.txt'
+      - 'UCI_HAR_dataset/train/subject_train.txt'
+      - 'UCI_HAR_dataset/train/y_train.txt'
+  Test Data___
+      - 'UCI_HAR_dataset/test/X_test.txt'
+      - 'UCI_HAR_dataset/test/subject_test.txt'
+      - 'UCI_HAR_dataset/test/y_test.txt'
+ 
+
+
+data source- https://archive.ics.uci.edu/ml/machine-learning-databases/00240/
+
+
+
